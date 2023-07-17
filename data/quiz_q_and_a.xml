@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+  <question seconds="5" points="2">
+    <text>How many planets are there in the solar system?</text>
+    <variants>
+      <variant>5</variant>
+      <variant>7</variant>
+      <variant right="true">8</variant>
+      <variant>3</variant>
+    </variants>
+  </question>
+
+  <question seconds="7" points="1">
+    <text>In what year did the Internet appear?</text>
+    <variants>
+      <variant>1991</variant>
+      <variant>1945</variant>
+      <variant right="true">1950</variant>
+      <variant>1812</variant>
+    </variants>
+  </question>
+
+  <question seconds="8" points="4">
+    <text>In what year did Google appear?</text>
+    <variants>
+      <variant>2000</variant>
+      <variant>1985</variant>
+      <variant right="true">1998</variant> 
+      <variant>1988</variant>
+    </variants>
+  </question>
+
+  <question seconds="10" points="3">
+    <text>In what year was the personal computer invented?</text>
+    <variants>
+      <variant>1999</variant>
+      <variant>2010</variant>
+      <variant right="true">1981</variant> 
+      <variant>1970</variant>
+    </variants>
+  </question>
+
+  <question seconds="6" points="5">
+    <text>When did the first TV go on sale?</text>
+    <variants>
+      <variant>1900</variant>
+      <variant>1921</variant>
+      <variant right="true">1928</variant> 
+      <variant>1812</variant>
+    </variants>
+  </question>
+
+</questions>
